@@ -1,0 +1,18 @@
+.produto {
+    background-color: rgb(50, 125, 186);
+    width: 23%;
+    border: solid 2px black;
+    margin: 1px;
+}
+
+.valor-total {
+    background-color: rgb(150, 213, 156);
+    width: 25%;
+    border: solid 2px black;
+}
+
+.nome-da-lista {
+    background-color: rgb(226, 228, 95);
+    width: 25%;
+    border: solid 2px black;
+}
