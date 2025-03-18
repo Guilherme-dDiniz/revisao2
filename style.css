@@ -1,3 +1,27 @@
+.traco-separacao {
+    background-color: black;
+    width: 50% ;
+    height: 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+.parte-dois {
+    display: block;
+    margin: 10px 0px;
+    width: 46%;
+}
+
+.espacamento-genero {
+    margin-bottom: 3px;
+}
+
+.cadastrar {
+    color: white;
+    background-color: rgb(29, 189, 64);
+    height: 35px;
+    width: 150px;
+    margin: 0 0 0 200px;
+}
 .produto {
     background-color: rgb(50, 125, 186);
     width: 23%;
